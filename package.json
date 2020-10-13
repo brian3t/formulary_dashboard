@@ -1,0 +1,26 @@
+{
+  "name": "formulary_dashboard",
+  "version": "1.0.0",
+  "description": "Formulary Admin dashboard with fusioncharts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian3t/formulary_dashboard.git"
+  },
+  "author": "Brian Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brian3t/formulary_dashboard/issues"
+  },
+  "homepage": "https://github.com/brian3t/formulary_dashboard#readme",
+  "dependencies": {
+    "fusioncharts": "^3.15.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
+  }
+}
